@@ -1,7 +1,6 @@
 # Sun-sunspots-QA-chatbot-using-LangChain-V1
 A conversational retrieval chatbot to answer questions about sun and sunspots (as one of our graduation project features).
-
-![chatbot_flow](https://github.com/DanialAlyousef/Sun-sunspots-QA-chatbot-using-LangChain-V1/blob/1b561814a54f9ddff25edb80b0f78ea4397f8765/images/chatbotV1.png?raw=true)
+![chatbot_flow](https://github.com/DanialAlyousef/Sun-sunspots-QA-chatbot-using-LangChain-V1-Public/blob/a74a5b89a3ea887dd062ae8f0fbd823dbaf7f5fb/images/chatbotV1.png)
 
 this project aims to create a chatbot to answer questions using preloaded documents about the sun and sunspots, the PDF files data was collected by [Tareq Alkhateb](https://www.linkedin.com/in/tareq-alkhateb-3359221a6/) from [Spaceweatherlive](https://Spaceweatherlive.com) and [britannica](https://www.google.com/url?q=https://www.britannica.com/&sa=U&ved=2ahUKEwjw8emZhNOEAxXwTKQEHWn5AhQQFnoECAEQAg&usg=AOvVaw1l8HbzB_akmwfBYUA36v8z).
 
